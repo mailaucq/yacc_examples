@@ -1,0 +1,18 @@
+(int | String) a;
+(int | String) va1, va2;
+int a=10;
+String cadena=”cadena”;
+a=10;
+cadena=”Holaaa”;
+variable1 = variable2;
+a++;
+a--;
+--a;
+++a;
+if(condicion) instruccion
+if(condicion) {instrucciones}
+if(condicion){} else {}
+if(a>10) a++; else a--;
+while(condicion){a++}
+print(variable)
+
